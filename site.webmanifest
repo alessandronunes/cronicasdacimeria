@@ -3,12 +3,12 @@
   "short_name": "Crônicas",
   "icons": [
     {
-      "src": "/android-chrome-192x192.png",
+      "src": "/https://blogger.googleusercontent.com/img/a/AVvXsEjdqp5wuHpDKBbZ15YS9sAIXvqGEm7rdPqln1qKEhnxRJ0eK6zzexEcVdFhLVL6aFKk_-Q7ak8jWF92EbshiTsH1s1tGtc9la08QiFxsdVvZzbtQLDcLEv_2v9mA1oNoIygV7j3s5ueXKsCR6Jc324noLitzUzJO6DZmQHTH_oFppK9PDmwqw",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "/android-chrome-512x512.png",
+      "src": "https://blogger.googleusercontent.com/img/a/AVvXsEiMVMp264R5jKozkNLSvaMRSZxxnHsCOVI2KiwWogA0qNmKK-pvJnuStZbYMrF8oB-zPsVQR4-hZU8B3fv_ov94CeG7e0R2P11yWcfTGluWfltI1LFrNcXks5_hXFnTUtO6OHZ2xz2BFb1M3myy7FDU-xvz79SKw-wAfN1psTqD9QwlOu0HTg",
       "sizes": "512x512",
       "type": "image/png"
     }
